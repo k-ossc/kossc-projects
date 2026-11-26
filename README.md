@@ -13,7 +13,9 @@
  
 ## 회원 개인 프로젝트
  
-(모집 중 — 아래 등재 안내 참고)
+| 프로젝트 | 소개 | 분야 | 등재 |
+|---|---|---|---|
+| [KODA 제품군](https://github.com/jhny-kor/KODA) | 인터넷이 차단된 폐쇄망에서도 소프트웨어 공급망 보안을 수집부터 점검·추적까지 이어서 할 수 있게 만든 4개 오픈소스 도구 묶음입니다.<br><br>• **[KODA](https://github.com/jhny-kor/KODA)** — 소스코드·설정·의존성·호스트 보안을 로컬에서 점검하는 보안·품질 스캐너입니다. macOS·Windows·Linux를 지원합니다.<br>• **[KODA BOM Kit](https://github.com/jhny-kor/KODA-BOM-Kit)** — Linux 서버의 소프트웨어·하드웨어·운영 상태를 실행 파일 하나로 수집해 CycloneDX·SPDX SBOM을 만듭니다.<br>• **[KODA SBOM Tracker](https://github.com/jhny-kor/KODA-SBOM-Tracker)** — SBOM을 회차별로 보관하며 취약점·정책 위반·변경점을 추적하는 한국어 포털입니다.<br>• **[KODA MCP](https://github.com/jhny-kor/KODA-MCP)** — 사내 AI(Open WebUI)로 작업하는 동안 변경·생성한 파일을 검사해 보안 의견을 돌려줍니다.<br><br>네 도구 모두 인터넷 연결 없이 운영할 수 있습니다. | SBOM·공급망 보안 | 2026.11 |
  
 ## 등재 안내
  
